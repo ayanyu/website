@@ -2,6 +2,7 @@ site: Made Jekyll Theme
 
 url: 
 baseurl: 
+theme: made
 
 collections:
   pages:
